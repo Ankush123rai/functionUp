@@ -1,2 +1,2 @@
 html stands for hypertext markup language
-this is a structure of page
+
